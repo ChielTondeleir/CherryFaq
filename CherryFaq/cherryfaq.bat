@@ -1,0 +1,2 @@
+cherryfaq.py
+cmd /k
